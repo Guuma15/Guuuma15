@@ -23,35 +23,35 @@
             </tr>
         </tbody>
     </table>
-    <!-- <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img> -->
+    <!-- <img src="https://komarev.com/ghpvc/?username=Guuma15&color=blueviolet&style=for-the-badge"></img> -->
 </div>
 <hr/>
 <p>You can contact me using the following:</p>
 <ul>
-    <li>Email: <a href="mailto:chris1320is@proton.me"><i>chris1320is@proton.me</i></a></li>
-    <li>Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
+    <li>Email: <a href="mailto:Guuma15is@proton.me"><i>Guuma15is@proton.me</i></a></li>
+    <li>Matrix: <a href="https://matrix.to/#/@Guuma15:matrix.org"><i>@Guuma15:matrix.org</i></a></li>
 </ul>
 
 <h2>Currently Active Public Projects</h2>
 <a href="https://github.com/SetupGuides/Neovim">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=Neovim&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
-<a href="https://github.com/Chris1320/RestEasy">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=RestEasy&theme=transparent&hide_border=true&locale=en" align="center"></img>
+<a href="https://github.com/Guuma15/RestEasy">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Guuma15&repo=RestEasy&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/SetupGuides/ArchLinux">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=ArchLinux&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
-<a href="https://github.com/Chris1320/copyt">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=copyt&theme=transparent&hide_border=true&locale=en" align="center"></img>
+<a href="https://github.com/Guuma15/copyt">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Guuma15&repo=copyt&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 
 <hr/>
 
-<a href="https://github.com/Chris1320?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&theme=transparent&hide_border=true&locale=en" align="center"></img>
+<a href="https://github.com/Guuma15?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guuma15&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
-<a href="https://github.com/Chris1320">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&theme=transparent&hide_border=true&locale=en" align="center"></img><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&theme=transparent" align="center"></img>
+<a href="https://github.com/Guuma15">
+    <img src="https://github-readme-stats.vercel.app/api?username=Guuma15&count_private=true&show_icons=true&theme=transparent&hide_border=true&locale=en" align="center"></img><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guuma15&theme=transparent" align="center"></img>
 </a>
